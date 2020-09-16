@@ -1,0 +1,7 @@
+LINKS
+1 - https://docs.microsoft.com/en-gb/windows/win32/api/fileapi/nf-fileapi-getfullpathnamea
+2 - https://github.com/ivanrad/getline/blob/master/getline.c
+3 - https://docs.microsoft.com/en-us/cpp/c-runtime-library/unicode-stream-i-o-in-text-and-binary-modes?view=vs-2019
+4 - https://github.com/martinh/libconfuse/blob/master/src/fmemopen.c
+5 - https://stackoverflow.com/questions/23973515/win32-edit-control-caret-placement-offset
+6 - https://osdn.net/projects/mingw/lists/archive/users/2018-June/000084.html

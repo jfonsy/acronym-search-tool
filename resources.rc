@@ -1,0 +1,27 @@
+﻿/*
+ * Copyright (©) 2019 J. Fonseka
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, version 3.
+ *
+ * This program is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+#include "resources.h"
+AppIcon ICON   "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\ICON.ico"
+Add     BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-add.bmp"
+Del     BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-del.bmp"
+Upd     BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-update.bmp"
+Res     BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-resdup.bmp"
+Exit    BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-exit.bmp"
+Hlp     BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-help.bmp"
+Lm      BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-lm.bmp"
+Dm      BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-dm.bmp"
+Extr    BITMAP "C:\\Users\\sad\\Documents\\C_Workspace\\Finished\\guitesting\\symbol-extr.bmp"
