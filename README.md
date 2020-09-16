@@ -32,3 +32,8 @@ Your installation of mingw may not have the following files, and might be requir
   The binary in the link above has been compiled with the following flags and -static-libgcc
   
   _-Wall -g -O3 -Winline -Wunreachable-code -pedantic-errors -pedantic -Wextra -Winline -Wmain -Wfatal-errors -Wextra
+  
+  The icons used in the application are Axialis Icons, they are not included in the source files as they are not licensed for distribution.
+  You must source your own.
+  
+  The logo file was generated for free from www.designevo.com
