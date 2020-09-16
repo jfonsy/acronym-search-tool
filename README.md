@@ -1,4 +1,4 @@
-General Usage
+### General Usage
 ====================
 
 The Acronym Search Tool is a semi-GUI, semi-command line based tool to help find, add, delete, and extract acronyms.
@@ -12,28 +12,27 @@ https://sourceforge.net/projects/ladywriter/files/ast.zip/download
 See the section below if you wish to compile it yourself.
 
 
-Compiling with mingw-GCC
+### Compiling with mingw-GCC
 ====================
 
 You will need to link to the following Windows libraries:
-  -gdi32
-  -user32
-  -kernel32
-  -comctl32
-  -comdlg32
+  - gdi32
+  - user32
+  - kernel32
+  - comctl32
+  - comdlg32
   
 Your installation of mingw may not have the following files, and might be required:
-  -winapifamily.h
-  -_mingw-unicode.h
-  -wincon.h
-  -virtdisk.h
-  -stralign.h
+  - winapifamily.h
+  - mingw-unicode.h
+  - wincon.h
+  - virtdisk.h
+  - stralign.h
   
-  The binary in the link above has been compiled with the following flags and -static-libgcc
+  The binary in the link above has been compiled with the following flags:
   
-  _-Wall -g -O3 -Winline -Wunreachable-code -pedantic-errors -pedantic -Wextra -Winline -Wmain -Wfatal-errors -Wextra
+  -Wall -g -O3 -Winline -Wunreachable-code -pedantic-errors -pedantic -Wextra -Winline -Wmain -Wfatal-errors -Wextra
   
-  The icons used in the application are Axialis Icons, they are not included in the source files as they are not licensed for distribution.
-  You must source your own.
+  The icons used in the application are Axialis Icons, they are not included in the source files as they are not licensed for distribution. You must source your own.
   
   The logo file was generated for free from www.designevo.com
