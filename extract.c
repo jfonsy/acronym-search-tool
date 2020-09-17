@@ -398,7 +398,16 @@ static DWORD WINAPI processContents( LPVOID lpParam )
         }
     }
 
-    if( 0 == count_all ) return 0;
+    if( 0 == count_all )
+    {
+        disable_commands = false;
+
+        free( file_cont );
+        free( data );
+        reloadACR( h_prog );
+
+        return 0;
+    }
 
     SetWindowTextW( h_prog, L"            Extracting...10%" );
 

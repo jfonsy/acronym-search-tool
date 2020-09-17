@@ -20,7 +20,7 @@
 #include <shellapi.h>
 #include <commctrl.h>
 
-#define PROG_VER L"Acronym Search v2.6"
+#define PROG_VER L"Acronym Search v2.7"
 
 #define MAX_SCREEN_BUF   64000
 // max height/width of logo
